@@ -13,4 +13,4 @@ github:
   link: https://github.com/jimwa53/comp5541-project-detr
 
 colab:
-- link
+- link：https://colab.research.google.com/drive/1c7XaHil-evUJNqfaYokMicVQqju4XDeq?usp=sharing
